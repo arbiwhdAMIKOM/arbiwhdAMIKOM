@@ -56,15 +56,14 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&no-frame=false" />
 </a>
 
-### 🎵 Listening to 
+### 🎵 Listening to
 <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
   <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
 </a>
-- Currently: [wong kalahan dewe]
+<br>
 <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
-  <img src="(https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200)" width="200" alt="wong kalahan dewe">
+  <img src="https://yt3.googleusercontent.com/g09dTySCkeMDclapJvuJWyaccckruCtNhOKJHxDYlcDxR7DuqX_J_gIGFruw-8-L0ElmwfJL_jw=s1200" width="200" alt="wong kalah an dewe">
 </a>
-[https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8]
 
 ---
 > *The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.*
