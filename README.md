@@ -1,6 +1,6 @@
 <!-- Capsule Render Animasi Ombak Sunyi & Berkedip -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&secondaryColor=211a1a&height=160&section=header&text=arbiwhd%20%7C%20A%20passionate%20student%20coder%20from%20Indonesia🇮🇩&fontSize=22&fontColor=8b949e&animation=blinking" alt="Wong Kalahan Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&secondaryColor=211a1a&height=160&section=header&text=A%20passionate%20student%20coder%20from%20Indonesia🇮🇩&fontSize=22&fontColor=8b949e&animation=blinking" alt="Wong Kalahan Header" />
 </p>
 A passionate student coder from Indonesia 🇮🇩
 
