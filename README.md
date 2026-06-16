@@ -58,6 +58,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&secondaryColor=374151&height=120&section=header&text=wong%20kalahan&fontSize=20&fontColor=9E9E9E&animation=twinkling" alt="Emo Wave" />
+</p>
+
 <!-- GIF Pixel Art Senja -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9haDRla2pzbXA4aW43Mnh0MGcxbTl4YWJkZ2tnNmx4c2M5MHA4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIpj8HJGVGGTUdM76b/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" />
