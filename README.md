@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 ![Activity Graph](...)
 
 ### 🎵 Listening to
-- Currently: [My Midwest Emo Essentials](URL_PLAYLIST_YT_MUSIC)
+- Currently: [wong kalahan dewe][https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8]
 
 ---
-> *Kutipan ngena kamu di sini*
+> *The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.*
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME_KAMU" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=arbiwhdAMIKOM" /></p>
