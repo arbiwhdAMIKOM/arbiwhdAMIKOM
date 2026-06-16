@@ -1,4 +1,7 @@
-<h3 align="center">A passionate student coder from Indonesia 🇮🇩</h3>
+<!-- Capsule Render Animasi Ombak Sunyi & Berkedip -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&secondaryColor=211a1a&height=160&section=header&text=arbiwhd%20%7C%20professional%20wong%20kalahan&fontSize=22&fontColor=8b949e&animation=blinking" alt="Wong Kalahan Header" />
+</p>
 
 - 🔭 I’m currently student on **University of Amikom Yogyakarta**
 - 🌱 I’m currently learning **Python, C++, C#, C, TS, HTML, Golang, Kotlin, CSS, JS**
@@ -51,19 +54,19 @@ Here are some ideas to get you started:
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 
-<!-- Efek Text Mengetik -->
+<!-- Efek Text Mengetik (Typing SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=1500&color=7F8C8D&center=true&vCenter=true&width=650&height=60&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C;only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27...;under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C;disambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.;Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=1500&color=9E9E9E&center=true&vCenter=true&width=650&height=60&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C;only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27...;under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C;disambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.;Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
   </a>
 </p>
 
-<!-- GIF Rainy Kamu di Sini -->
+<!-- GIF Pixel Art Senja -->
 <p align="center">
-  ![rainy-night-pixel]"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtlanJ3eW16dHVpaDllNmN6aXR1YnpoYjMyYTg2aGo1YmkwNWRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9haDRla2pzbXA4aW43Mnh0MGcxbTl4YWJkZ2tnNmx4c2M5MHA4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RIpj8HJGVGGTUdM76b/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" />
 </p>
 
-### 🌧️ Listening to `•` 2 AM Rain Sessions
+### 🎵 Listening to `•` Live 🌟
 
 <p align="left">
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
@@ -71,12 +74,16 @@ Here are some ideas to get you started:
   </a>
   <br><br>
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
-    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" style="filter: grayscale(30%) brightness(80%);" />
+    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arbiwhdAMIKOM&color=black" />
+  <i>The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.</i>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arbiwhdAMIKOM" />
 </p>
