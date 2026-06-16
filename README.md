@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 ### 🎮 Contribution Graph
 <!-- Animasi Snake akan muncul di sini setelah setup GitHub Actions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arbiwhdAMIKOM/arbiwhdAMIKOM/output/github-contribution-grid-snake.svg" alt="GitHub Snake Walk" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=9E9E9E&center=true&vCenter=true&width=600&height=100&lines=arbiwhd%40amikom%3A~%24+git+checkout+success;error%3A+pathspec+%27success%27+did+not+match+any+files.;arbiwhd%40amikom%3A~%24+git+status;On+branch+wong-kalahan...+working+tree+sad." alt="Git Error Animation" />
+  </a>
 </p>
 
 
