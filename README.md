@@ -51,10 +51,14 @@ Here are some ideas to get you started:
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 <p align="center"
-  <i> Left the cold breeze of Probolinggo for a degree in Yogyakarta, only to find out that I’m still just another 'wong kalahan' under these unfamiliar city lights.
+  <i> Left the cold breeze of Probolinggo for a degree in Yogyakarta, only to find out that I’m still just another 'wong kalahan' under these unfamiliar city lights. </i>
   <i> Rasane koyo numpak motor macet neng prapatan, sinambi ngrungokake lagu emo sing ora tau rampung. Kalah maneh, ora opo-opo. </i>
+  
 </p>
-### 🎵 Listening to
+<p alight="center">
+  <b>### 🎵 Listening to `•` Live 🌟.</b>
+</p>
+  
 <p align="left">
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
