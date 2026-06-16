@@ -54,18 +54,17 @@ Here are some ideas to get you started:
 <!-- Efek Text Mengetik Otomatis (Typing SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=1500&color=9E9E9E&center=true&vCenter=true&width=650&height=60&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C;only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27...;under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C;sinambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.;Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=1500&color=9E9E9E&center=true&vCenter=true&width=650&height=60&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C;only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27...;under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C;disambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.;Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
   </a>
 </p>
-  
-</p>
+
+### 🎵 Listening to `•` Live 🌟
+
+<!-- GIF Pixel Art Senja (Lo-Fi Emo Aesthetic) -->
 <p align="center">
-  <b>### 🎵 Listening to `•` Live 🌟.</b>
+  <img src="https://media.giphy.com/media/d9S7E16pZ6w7K/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" style="border-radius: 8px;" />
 </p>
-  <!-- GIF Pixel Art Senja (Lo-Fi Emo Aesthetic) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0Y293Ym95am81ZHJ1cm81b2Z0bXN6NDF6M3VwY2NndWZ6Y3VvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9S7E16pZ6w7K/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" style="border-radius: 8px;" />
-</p>
+
 <p align="left">
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
@@ -77,6 +76,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
 <p align="center">
   <i>The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.</i>
 </p>
