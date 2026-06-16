@@ -43,29 +43,37 @@ Here are some ideas to get you started:
 </p>
 
 ### 🎮 Contribution Graph
-<!-- animasi Snake/Pacman -->
+<!-- Animasi Snake akan muncul di sini setelah setup GitHub Actions -->
 <p align="center">
-  <img src="https://github.com/arbiwhdAMIKOM/arbiwhdAMIKOM/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/arbiwhdAMIKOM/arbiwhdAMIKOM/output/github-contribution-grid-snake.svg" alt="GitHub Snake Walk" />
 </p>
 
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 
-<!-- GitHub Trophy -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=arbiwhdAMIKOM&theme=radical&no-frame=false" />
-</a>
+<!-- Trophy Github -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arbiwhdAMIKOM&theme=radical&no-frame=false" />
+  </a>
+</p>
 
 ### 🎵 Listening to
-<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
-  <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
-</a>
-<br>
-<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
-  <img src="[https://yt3.googleusercontent.com/g09dTySCkeMDclapJvuJWyaccckruCtNhOKJHxDYlcDxR7DuqX_J_gIGFruw-8-L0ElmwfJL_jw=s1200] https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200 " width="200" alt="wong kalah an dewe">
-</a>
+<p align="left">
+  <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
+  </a>
+  <br><br>
+  <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
+    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" style="border-radius: 8px;" />
+  </a>
+</p>
 
 ---
-> *The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.*
+<p align="center">
+  <i>The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.</i>
+</p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=arbiwhdAMIKOM" /></p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arbiwhdAMIKOM" />
+</p>
