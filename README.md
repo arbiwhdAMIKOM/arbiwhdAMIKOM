@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arbiwhdAMIKOM&theme=radical&no-frame=false" />
 </a>
 
 ### 🎵 Listening to
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
-  <img src="https://yt3.googleusercontent.com/g09dTySCkeMDclapJvuJWyaccckruCtNhOKJHxDYlcDxR7DuqX_J_gIGFruw-8-L0ElmwfJL_jw=s1200" width="200" alt="wong kalah an dewe">
+  <img src="[https://yt3.googleusercontent.com/g09dTySCkeMDclapJvuJWyaccckruCtNhOKJHxDYlcDxR7DuqX_J_gIGFruw-8-L0ElmwfJL_jw=s1200] https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200 " width="200" alt="wong kalah an dewe">
 </a>
 
 ---
