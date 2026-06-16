@@ -5,10 +5,10 @@
 - 👯 My current major is Computer Science
 - 🤔 I’m looking for help with Copilot or Github Community For my project
 - 💬 Ask me about my project
-- 📫 How to reach me: arbiwhd1@gmail.com or ibrawahedd@sgmail.com or arbiwhd3@gmail.com
-- [arbiwhd1@gmail.com](mailto:arbiwhd1@gmail.com)
-- [ibrawahedd@gmail.com](mailto:ibrawahedd@gmail.com)
-- [arbiwhd3@gmail.com](mailto:arbiwhd3@gmail.com)
+- 📫 How to reach me:
+  - [arbiwhd1@gmail.com](mailto:arbiwhd1@gmail.com)
+  - [ibrawahedd@gmail.com](mailto:ibrawahedd@gmail.com)
+  - [arbiwhd3@gmail.com](mailto:arbiwhd3@gmail.com)
 - 😄 Pronouns: He/HIM or just call me babe
 - ⚡ Fun fact **I like playing music and listening to midwest EMO**
 
@@ -45,5 +45,19 @@ Here are some ideas to get you started:
 ### 🎮 Contribution Graph
 <!-- animasi Snake/Pacman -->
 <p align="center">
-  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/USERNAME_KAMU/arbiwhdAMIKOM/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+<h2 align="center">"It's just midwest emo, man."</h2>
+
+### 📊 My Coding Journey
+![Activity Graph](...)
+
+### 🎵 Listening to
+- Currently: [My Midwest Emo Essentials](URL_PLAYLIST_YT_MUSIC)
+
+---
+> *Kutipan ngena kamu di sini*
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME_KAMU" /></p>
