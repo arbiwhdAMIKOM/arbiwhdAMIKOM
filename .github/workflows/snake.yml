@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # Jalankan otomatis setiap 24 jam
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Jalankan manual jika tombol "Run workflow" ditekan
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
-  # Jalankan setiap kali ada push ke branch main
   push:
     branches:
       - main
@@ -19,16 +14,15 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user contributions graph
+      # Generates a snake game with a custom "Wong Kalahan / Emo" palette
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%237d7d7d&color_dots=%23161b22,%23281e1e,%23442a2a,%23663838,%238c4747
 
-      # push the content of <build_dir> to a branch
+      # Push the content to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
@@ -36,5 +30,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
           ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
