@@ -48,9 +48,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/arbiwhdAMIKOM/arbiwhdAMIKOM/output/github-contribution-grid-snake.svg" alt="GitHub Snake Walk" />
 </p>
 
-
-<h2 align="center">"It's just midwest emo, man."</h2>
-
 ### 🎵 Listening to `•` Live 🌟
 
 <p align="left">
@@ -62,6 +59,9 @@ Here are some ideas to get you started:
     <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" />
   </a>
 </p>
+
+<h2 align="center">"It's just midwest emo, man."</h2>
+
 
 <!-- Efek Text Mengetik (Typing SVG) -->
 <p align="center">
