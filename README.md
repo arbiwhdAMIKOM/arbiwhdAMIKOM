@@ -45,17 +45,26 @@ Here are some ideas to get you started:
 ### 🎮 Contribution Graph
 <!-- animasi Snake/Pacman -->
 <p align="center">
-  <img src="https://github.com/USERNAME_KAMU/arbiwhdAMIKOM/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/arbiwhdAMIKOM/arbiwhdAMIKOM/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 
-### 📊 My Coding Journey
-![Activity Graph](...)
+<!-- GitHub Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&no-frame=false" />
+</a>
 
-### 🎵 Listening to
-- Currently: [wong kalahan dewe][https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8]
+### 🎵 Listening to 
+<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
+  <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
+</a>
+- Currently: [wong kalahan dewe]
+<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8">
+  <img src="(https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200)" width="200" alt="wong kalahan dewe">
+</a>
+[https://music.youtube.com/playlist?list=PLUTq64u5Pz-E&si=gExGMZzldWqXk4x8]
 
 ---
 > *The middle of the Midwest, where all the houses look the same, and I’m still trying to find a reason to stay.*
