@@ -50,12 +50,16 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">"It's just midwest emo, man."</h2>
-<p align="center"
-  <i> Left the cold breeze of Probolinggo for a degree in Yogyakarta, only to find out that I’m still just another 'wong kalahan' under these unfamiliar city lights. </i>
-  <i> Rasane koyo numpak motor macet neng prapatan, sinambi ngrungokake lagu emo sing ora tau rampung. Kalah maneh, ora opo-opo. </i>
+
+<!-- Efek Text Mengetik Otomatis (Typing SVG) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=9E9E9E&center=true&vCenter=true&width=900&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C+only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27+under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C+sinambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.+Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
+  </a>
+</p>
   
 </p>
-<p alight="center">
+<p align="center">
   <b>### 🎵 Listening to `•` Live 🌟.</b>
 </p>
   
