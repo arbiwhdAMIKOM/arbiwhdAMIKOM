@@ -51,19 +51,19 @@ Here are some ideas to get you started:
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 
-<!-- Efek Text Mengetik Otomatis (Typing SVG) -->
+<!-- Efek Text Mengetik (Typing SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=1500&color=9E9E9E&center=true&vCenter=true&width=650&height=60&lines=Left+the+cold+breeze+of+Probolinggo+for+a+degree+in+Yogyakarta%2C;only+to+find+out+that+I%27m+still+just+another+%27wong+kalahan%27...;under+these+unfamiliar+city+lights.;Rasane+koyo+numpak+motor+macet+neng+prapatan%2C;disambi+ngrungokake+lagu+emo+sing+ora+tau+rampung.;Kalah+maneh%2C+ora+opo-opo." alt="Wong Kalahan Quotes" />
   </a>
 </p>
 
-### 🎵 Listening to `•` Live 🌟
-
-<!-- GIF Pixel Art Senja (Lo-Fi Emo Aesthetic) -->
+<!-- GIF Pixel Art Senja -->
 <p align="center">
-  <img src="https://media.giphy.com/media/d9S7E16pZ6w7K/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" style="border-radius: 8px;" />
+  <img src="https://i.giphy.com/d9S7E16pZ6w7K.gif" width="450" alt="Midwest Emo Sunset Pixel Art" />
 </p>
+
+### 🎵 Listening to `•` Live 🌟
 
 <p align="left">
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   </a>
   <br><br>
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
-    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" style="border-radius: 8px;" />
+    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" />
   </a>
 </p>
 
