@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 <p align="center"
-  <i> Growing up in Yogyakarta just to realize that I am destined to be 'wong kalahan'. Cheers to another rainy 2 AM. </i>
+  <i> Left the cold breeze of Probolinggo for a degree in Yogyakarta, only to find out that I’m still just another 'wong kalahan' under these unfamiliar city lights.
   <i> Rasane koyo numpak motor macet neng prapatan, sinambi ngrungokake lagu emo sing ora tau rampung. Kalah maneh, ora opo-opo. </i>
 </p>
 ### 🎵 Listening to
