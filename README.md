@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&secondaryColor=374151&height=120&section=header&text=wong%20kalahan&fontSize=20&fontColor=9E9E9E&animation=twinkling" alt="Emo Wave" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbiwhdAMIKOM&theme=tokyonight&color=9e9e9e&line=6b7280&point=e11d48&area=true&hide_border=true" alt="Wong Kalahan Activity Graph" />
 </p>
 
 <!-- GIF Pixel Art Senja -->
