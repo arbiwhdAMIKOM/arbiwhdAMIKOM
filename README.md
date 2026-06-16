@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <!-- GIF Pixel Art Senja -->
 <p align="center">
-  <img src="https://i.giphy.com/d9S7E16pZ6w7K.gif" width="450" alt="Midwest Emo Sunset Pixel Art" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0Y293Ym95am81ZHJ1cm81b2Z0bXN6NDF6M3VwY2NndWZ6Y3VvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9S7E16pZ6w7K/giphy.gif" width="450" alt="Midwest Emo Sunset Pixel Art" />
 </p>
 
 ### 🎵 Listening to `•` Live 🌟
