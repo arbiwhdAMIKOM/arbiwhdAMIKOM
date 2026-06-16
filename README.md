@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <!-- GIF Rainy Kamu di Sini -->
 <p align="center">
-  ![rainy-night-pixel](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtlanJ3eW16dHVpaDllNmN6aXR1YnpoYjMyYTg2aGo1YmkwNWRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif)
+  ![rainy-night-pixel]"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtlanJ3eW16dHVpaDllNmN6aXR1YnpoYjMyYTg2aGo1YmkwNWRrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif"
 </p>
 
 ### 🌧️ Listening to `•` 2 AM Rain Sessions
