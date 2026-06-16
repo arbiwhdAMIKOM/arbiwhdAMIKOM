@@ -58,8 +58,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- Capsule Render Animasi Ombak Sunyi & Berkedip -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbiwhdAMIKOM&theme=tokyonight&color=9e9e9e&line=6b7280&point=e11d48&area=true&hide_border=true" alt="Wong Kalahan Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=251c1c&height=140&section=header&text=kalah%20maneh,%20ora%20opo-opo...&fontSize=22&fontColor=6e7681&animation=blinking" alt="Sad Emo Wave" />
 </p>
 
 <!-- GIF Pixel Art Senja -->
