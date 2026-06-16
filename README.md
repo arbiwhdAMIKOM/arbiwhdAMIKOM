@@ -1,4 +1,4 @@
-<h3> align="center">A passionate student coder from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate student coder from Indonesia 🇮🇩</h3>
 
 - 🔭 I’m currently student on **University of Amikom Yogyakarta**
 - 🌱 I’m currently learning **Python, C++, C#, C, TS, HTML, Golang, Kotlin, CSS, JS**
