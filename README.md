@@ -51,13 +51,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">"It's just midwest emo, man."</h2>
 
-<!-- Trophy Github -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arbiwhdAMIKOM&theme=radical&no-frame=false" />
-  </a>
-</p>
-
 ### 🎵 Listening to
 <p align="left">
   <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
