@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently student on **University of Amikom Yogyakarta**
 - 🌱 I’m currently learning **Python, C++, C#, C, TS, HTML, Golang, Kotlin, CSS, JS**
-- 👯 My current major is Computer Science
+- 🧑‍🎓 My current major is Computer Science
 - 🤔 I’m looking for help with Copilot or Github Community For my project
 - 💬 Ask me about my project
 - 📫 How to reach me:
