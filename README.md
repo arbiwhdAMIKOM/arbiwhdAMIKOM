@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 </p>
 
 ### 📈 GitHub Stats
-<!-- Ganti "USERNAME_KAMU dengan username GitHub-mu -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbiwhdAMIKOM&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://github.com/arbiwhdAMIKOM">
+  <img src="https://vercel.app" alt="GitHub Achievements" width="100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbiwhdAMIKOM&theme=radical&hide_border=true" />
+  </a>  
 </p>
 
 ### 🎮 Contribution Graph
