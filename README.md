@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/arbiwhdAMIKOM">
-  <img src="https://vercel.app" alt="GitHub Achievements" width="100%" />
+  <img src="https://vercel.app" alt="arbiwhdAMIKOM's Achievements" width="100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbiwhdAMIKOM&theme=radical&hide_border=true" />
   </a>  
 </p>
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
   </a>
   <br><br>
-  <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
-    <img src="https://yt3.googleusercontent.com/gO9dTySCkemDclaPJvuJwYaccckruCtNhOKJhxDYlcDxR7DuqX_J_gIGFruw-8-L0ELmwfJL_jw=s1200" width="220" alt="wong kalah an dewe" />
-  </a>
+<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
+  <img src="https://erika.moe" alt="Wong Kalahan Dewe" width="100%"/>
+</a>
 </p>
 
 <h2 align="center">"It's just midwest emo, man."</h2>
