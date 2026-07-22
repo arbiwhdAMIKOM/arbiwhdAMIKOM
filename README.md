@@ -37,28 +37,13 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <a href="https://github.com/arbiwhdAMIKOM">
-  <img src="https://vercel.app" alt="arbiwhdAMIKOM's Achievements" width="100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbiwhdAMIKOM&theme=radical&hide_border=true" />
-  </a>  
 </p>
 
 ### 🎮 Contribution Graph
 <!-- Animasi Snake akan muncul di sini setelah setup GitHub Actions -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/arbiwhdAMIKOM/arbiwhdAMIKOM/output/github-contribution-grid-snake.svg" alt="GitHub Snake Walk" />
-</p>
-
-### 🎵 Listening to `•` Live 🌟
-
-<p align="left">
-  <a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube_Music-Now_Playing-red?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YT Music">
-  </a>
-  <br><br>
-<a href="https://music.youtube.com/playlist?list=PLUTq64u5Pz-E" target="_blank">
-  <img src="https://erika.moe" alt="Wong Kalahan Dewe" width="100%"/>
-</a>
 </p>
 
 <h2 align="center">"It's just midwest emo, man."</h2>
