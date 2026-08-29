@@ -1,10 +1,8 @@
 <h3 align="center">A passionate student coder from Indonesia 🇮🇩</h3>
 
-- 🔭 I’m currently student on **University of Amikom Yogyakarta**
+- 🔭 I am currently studying at **Universitas Amikom Yogyakarta.**
 - 🌱 I’m currently learning **Python, C++, C#, C, TS, HTML, Golang, Kotlin, CSS, JS**
 - 🧑‍🎓 My current major is Computer Science
-- 🤔 I’m looking for help with Copilot or Github Community For my project
-- 💬 Ask me about my project
 - 📫 How to reach me:
   - [arbiwhd1@gmail.com](mailto:arbiwhd1@gmail.com)
   - [ibrawahedd@gmail.com](mailto:ibrawahedd@gmail.com)
