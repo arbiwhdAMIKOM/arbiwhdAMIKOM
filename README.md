@@ -7,8 +7,8 @@
   - [arbiwhd1@gmail.com](mailto:arbiwhd1@gmail.com)
   - [ibrawahedd@gmail.com](mailto:ibrawahedd@gmail.com)
   - [arbiwhd3@gmail.com](mailto:arbiwhd3@gmail.com)
-- 😄 Pronouns: He/HIM or just call me babe
-- ⚡ Fun fact **I like playing music and listening to midwest EMO**
+- 😄 Pronouns: He/HIM or just call me **"Yang Mulia"**
+- ⚡ Fun fact **I like playing music and listen to midwest EMO**
 
 <!--
 **arbiwhdAMIKOM/arbiwhdAMIKOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
